@@ -10,6 +10,6 @@ public class PlayerHeartbeat : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+		// this is a filler comment
 	}
 }
